@@ -18,6 +18,6 @@ sudo apt-get -y install docker-engine
 
 sudo groupadd docker
 sudo usermod -aG docker $USER
-docker run hello-world
+
 
 

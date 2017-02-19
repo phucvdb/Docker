@@ -4,5 +4,6 @@ Run the below command on your host
 
 After that, logout and login again with your sudoer account.
 
-Run a testing with Docker Engin:
+Run a testing with Docker Engine
+
   docker run hello-world

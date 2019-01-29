@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -X
+set -x
 
 sudo apt update -y
 sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
